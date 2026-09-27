@@ -1,0 +1,5 @@
+anyascii>=0.3.2
+datasketch>=1.6.5
+pandas>=2.2
+rapidfuzz>=3.14
+scikit-learn>=1.7
